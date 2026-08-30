@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="ed8688b7-abe9-48c9-9caa-3e5f80a93431">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ФСК_ВходящиеПретензии" category="Object">
+				<xr:TypeId>34480ac3-6fbd-4b74-ac1e-98675e99cb45</xr:TypeId>
+				<xr:ValueId>70c2092c-71ca-4d16-af23-a2465b2ea022</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ФСК_ВходящиеПретензии" category="Ref">
+				<xr:TypeId>024c5e58-4ff1-46b0-b618-3940e5645dcf</xr:TypeId>
+				<xr:ValueId>60be7636-8d27-4326-9541-3dfccfd94f86</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ФСК_ВходящиеПретензии" category="Selection">
+				<xr:TypeId>6f696ee2-9e8b-4887-a1dc-4f4a89f87766</xr:TypeId>
+				<xr:ValueId>7c701f17-62be-4061-acae-ae475376cf91</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ФСК_ВходящиеПретензии" category="List">
+				<xr:TypeId>399743eb-93f8-4ea4-822e-276c1f72e37f</xr:TypeId>
+				<xr:ValueId>52bf96dd-d269-44b6-86de-70584103f0b9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ФСК_ВходящиеПретензии" category="Manager">
+				<xr:TypeId>a617e47b-9cb3-4d13-9a20-bac850ec9d8f</xr:TypeId>
+				<xr:ValueId>e99b467d-0119-478a-abb1-37ed09755c7e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ФСК_ВходящиеПретензии</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7254143c-71d0-4d67-9505-04b305b59aad</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
