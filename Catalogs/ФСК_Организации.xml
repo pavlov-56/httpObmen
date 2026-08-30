@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="d6573a8b-949e-4e06-a3de-1fb1c39fd922">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ФСК_Организации" category="Object">
+				<xr:TypeId>76c493c2-fbc0-49a6-879c-869ed0853ab1</xr:TypeId>
+				<xr:ValueId>8a4edc79-0799-4e6d-8592-99c94e2d0535</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ФСК_Организации" category="Ref">
+				<xr:TypeId>62a47c1e-7928-4be9-8be7-fcd23bb50d67</xr:TypeId>
+				<xr:ValueId>2892434e-f581-4ecc-9c8d-8d9cdecd15af</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ФСК_Организации" category="Selection">
+				<xr:TypeId>e227ed68-13c7-478d-b6d6-275208fefbdb</xr:TypeId>
+				<xr:ValueId>0b614ebc-31b7-4c64-a98a-e8c77102932c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ФСК_Организации" category="List">
+				<xr:TypeId>f2969f71-cfdf-4c0f-a72b-c9741f17569c</xr:TypeId>
+				<xr:ValueId>75412c83-80e7-4d29-b301-0f346b066d87</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ФСК_Организации" category="Manager">
+				<xr:TypeId>a89a8530-086b-4fdc-8819-9be5185f1961</xr:TypeId>
+				<xr:ValueId>0c8936a8-4c87-479f-8aa8-2d8452474ea2</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ФСК_Организации</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>19927a6f-4a18-46b7-862e-c45fdb126576</ExtendedConfigurationObject>
+			<DescriptionLength>150</DescriptionLength>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

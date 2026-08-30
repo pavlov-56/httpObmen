@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.ФСК_ВидыНоменклатуры" id="5f57a9f3-165e-4076-9174-b02c423eb04a" configVersion="4e12cf8357bb4ff9a8b8f15f9a78db07cfed7816"/>
+		<Metadata name="Catalog.ФСК_Номенклатура" id="24231440-34c8-4efa-b39d-7101d267f0c7" configVersion="260adcf02da80765029d497afff9846e2fe110c2">
+			<Metadata name="Catalog.ФСК_Номенклатура.Attribute.Артикул" id="0ea02549-dd00-4e82-b478-0e41594dfd72"/>
+			<Metadata name="Catalog.ФСК_Номенклатура.Attribute.Организация" id="6b909b34-72f2-44a3-be21-42c3f647774f"/>
+			<Metadata name="Catalog.ФСК_Номенклатура.Attribute.ДатаСоздания" id="7b554091-c59f-48c5-9d1d-361bcb387860"/>
+			<Metadata name="Catalog.ФСК_Номенклатура.Attribute.ВидНоменклатуры" id="efe9f358-0324-4146-9058-7594040f3e1f"/>
+		</Metadata>
+		<Metadata name="Catalog.ФСК_Организации" id="d6573a8b-949e-4e06-a3de-1fb1c39fd922" configVersion="9c08775b83e80a9b1071b2006e19c0940380d4aa"/>
+		<Metadata name="Configuration.ObmenNomenklatura" id="088ba1e0-ebe6-4930-afaa-bc9c99f3fccf" configVersion="c62d0d2de3f5c6c447df77d002d2a18249ca11d7"/>
+		<Metadata name="HTTPService.QMS_ObmenNomenklatura" id="420e1ec0-6899-429e-8721-b415f8a5c281" configVersion="5dd2d1d95d17a1c93458fcc8eee3b432fa93d5e1">
+			<Metadata name="HTTPService.QMS_ObmenNomenklatura.URLTemplate.GetNomenklatura.Method.GET" id="214ffcb5-b220-4a1f-8f6d-ffdf85e13fc4"/>
+			<Metadata name="HTTPService.QMS_ObmenNomenklatura.URLTemplate.GetNomenklatura" id="ee6f78d1-5af3-47b1-8d05-4d50f07c4a01"/>
+		</Metadata>
+		<Metadata name="HTTPService.QMS_ObmenNomenklatura.Module" id="420e1ec0-6899-429e-8721-b415f8a5c281.0" configVersion="a932db440b6559cae0b1e0264429fc8da90eb399"/>
+		<Metadata name="Language.Русский" id="56f207dc-c1bc-47c8-91d2-4cf8600ac623" configVersion="c663dea739ee16b62f5ed663848c9716734a9b14"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
